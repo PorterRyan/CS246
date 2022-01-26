@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 Hello World
 
 This is even more different.
+
